@@ -10,7 +10,7 @@
 *	Multi-vehicle Collaborative Driving, Traffic Flow Theory, Traffic Flow Modelling 
 
 ## Links 📱
-You can find me on the following social media platforms or send me an email:
+You can find me on the following platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/cafer-avci)
 * 📫 [WebSite](https://users.aalto.fi/~avcic2/)
 * ✉️ [cafer.avci@aalto.fi](mailto:cafer.avci@aalto.fi)
