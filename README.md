@@ -12,6 +12,7 @@
 ## Links 📱
 You can find me on the following social media platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/cafer-avci)
-* 🎥 [Youtube](https://www.youtube.com/channel/UC3PK1HCPf1b1vDkfuCMSHmQ)
 * 📫 [WebSite](https://users.aalto.fi/~avcic2/)
 * ✉️ [cafer.avci@aalto.fi](mailto:cafer.avci@aalto.fi)
+* 🎥 [Youtube](https://www.youtube.com/channel/UC3PK1HCPf1b1vDkfuCMSHmQ)
+
