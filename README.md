@@ -15,4 +15,3 @@ You can find me on the following platforms or send me an email:
 * 📫 [WebSite](https://users.aalto.fi/~avcic2/)
 * ✉️ [cafer.avci@aalto.fi](mailto:cafer.avci@aalto.fi)
 * 🎥 [YouTube](https://www.youtube.com/channel/UC3PK1HCPf1b1vDkfuCMSHmQ)
-
