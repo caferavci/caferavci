@@ -1,8 +1,8 @@
 # Hi, I'm Cafer 👋
 
-<strong>Enthusiastic on R&D of autonomous vehicle technologies and open-source traffic simulation.</strong>
+<strong>Enthusiastic on R&D of autonomous vehicle technologies and open-source development of traffic simulation.</strong>
 
-👯 I am open to collaborate following topics:
+👯 I am open to collaboration for following topics:
 
 *	Optimization and Control of Traffic Systems, Connected and Autonomous Vehicles
 *	Transportation Computing, Real-time Modelling and Simulation of Transportation Systems, Open-Source Development
