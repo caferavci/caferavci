@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello and thank you for visitin my GitHub 👋
 
+* 🔭 I’m a Postdoctoral Researcher at Transportation Engineering, Aalto University.
+* 👯 I am open to collaborate following topics:
+** asd
 <!--
 **caferavci/caferavci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
