@@ -4,10 +4,12 @@
 
 👯 I am open to collaboration for following topics:
 
+*	Multi-vehicle Collaborative Driving, Motion Planning and Control
+*	Vehicle Routing, Dynamic Traffic Assignment, Operation Research
+*	Multi-resolution Traffic Modelling, Traffic Flow Theory
+*	Open-Source Traffic Simulation Development
 *	Optimization and Control of Traffic Systems, Connected and Autonomous Vehicles
-*	Transportation Computing, Real-time Modelling and Simulation of Transportation Systems, Open-Source Development
 *	Artificial Intelligence, Smart Mobility, Big Data, Intelligent Transportation Systems
-*	Multi-vehicle Collaborative Driving, Traffic Flow Theory, Traffic Flow Modelling 
 
 ## Links 📱
 You can find me on the following platforms or send me an email:
