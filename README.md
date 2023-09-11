@@ -15,5 +15,5 @@
 You can find me on the following platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/cafer-avci)
 * 📫 [WebSite](http://cafer.avci.com/)
-* ✉️ [cavci@asu.edu](mailto:cavci@asu.edu)
+* ✉️ [cafer.avci@cornell.edu](mailto:cafer.avci@cornell.edu)
 * 🎥 [YouTube](https://www.youtube.com/channel/UC3PK1HCPf1b1vDkfuCMSHmQ)
