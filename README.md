@@ -2,7 +2,7 @@
 
 🚗 **Researcher, Developer, and Lecturer focused on AI for Mobility, Traffic Simulation, and Autonomous Systems**  
 PhD-level researcher and current **Lecturer of "Digital Systems Modeling with Generative AI" at Cornell University**. 
-I specialize in building AI-powered, scalable systems for intelligent transportation, mobility modeling, and connected autonomous vehicles. 
+I specialize in building AI-powered, scalable systems for intelligent transportation, mobility modeling, smart city applications, environmental modeling, and connected autonomous vehicles. 
 Passionate about combining rigorous systems thinking with practical, open-source development.
 
 💡 Currently expanding into **Large Language Models (LLMs)**, **generative agents**, and **deep learning** to enhance mobility simulations, routing intelligence, and digital twin frameworks for smart cities.
